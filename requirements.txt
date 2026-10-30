@@ -1,0 +1,4 @@
+numpy
+gymnasium
+gymnasium[mujoco]
+gymnasium[other]
