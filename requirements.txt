@@ -2,3 +2,5 @@ numpy
 gymnasium
 gymnasium[mujoco]
 gymnasium[other]
+stable_baselines3
+torch
